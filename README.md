@@ -1,7 +1,7 @@
 Hey! My name is Sai Jahnavi Rallapalli
 =======================================
 
-I'm passionate about Fullstack development, and seeking opportunities to expand my skills, stay updated with the latest industry trends, and apply best practices in my coding.
+I'm passionate about Fullstack development, actively seeking opportunities to expand my skills, stay updated with the latest industry trends, and apply best practices in my coding.
 
 * 🌍  I'm based in India
 * 🤝  I'm open to collaborating on projects that pique my interest
